@@ -1,9 +1,11 @@
 # Process scheduling simulator
 
+
+### Premise
+
 ## Round Robin Algorithm
 
 
-### Premise
 
 
 __The algorithm description:__
@@ -28,7 +30,6 @@ __The algorithm description:__
 
 ## First Come First Served (FCFS) Scheduling Algorithm ##
 
-### Premise
 
 __The algorithm description:__
 
@@ -36,8 +37,6 @@ The process that requests the CPU first is allocated the CPU first. This is easi
 
 
 ## Shortest Job First (SJF) Scheduling Algorithm ##
-
-### Premise
 
 
 __The algorithm description:__
@@ -47,8 +46,6 @@ In shortest job first scheduling algorithm, the processor selects the waiting pr
 
 ## Priority Scheduling Algorithm ##
 
-
-### Premise
 
 __The algorithm description:__
 
