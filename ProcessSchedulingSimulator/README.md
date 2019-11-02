@@ -26,4 +26,31 @@ __The algorithm description:__
 
 
 
+## First Come First Served (FCFS) Scheduling Algorithm ##
+
+### Premise
+
+__The algorithm description:__
+
+The process that requests the CPU first is allocated the CPU first. This is easily implemented with a FIFO queue for managing the tasks. As the process come in, they are put at the end of the queue. As the CPU finishes each task, it removes it from the start of the queue and heads on to the next task.
+
+
+## Shortest Job First (SJF) Scheduling Algorithm ##
+
+### Premise
+
+
+__The algorithm description:__
+
+In shortest job first scheduling algorithm, the processor selects the waiting process with the smallest execution time to execute next.
+
+
+## Priority Scheduling Algorithm ##
+
+
+### Premise
+
+__The algorithm description:__
+
+In priority scheduling algorithm each process has a priority associated with it and as each process hits the queue, it is stored in based on its priority so that process with higher priority are dealt with first. It should be noted that equal priority processes are scheduled in FCFS order.
 
