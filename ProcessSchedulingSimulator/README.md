@@ -6,7 +6,7 @@
 ### Premise
 
 
-** The algorithm description: **
+__The algorithm description:__
 
 1. The queue structure in ready queue is of First In First Out (FIFO) type.
 
